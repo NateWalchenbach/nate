@@ -52,6 +52,7 @@ const App: React.FC = () => (
           </Route>
           <Route exact path="/">
             <Redirect to="/home" />
+            {/* TEST */}
           </Route>
         </IonRouterOutlet>
         <IonTabBar slot="bottom">
