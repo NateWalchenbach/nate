@@ -1,0 +1,7 @@
+{
+  "name": "nate",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
